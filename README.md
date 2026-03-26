@@ -20,14 +20,13 @@ I build things — AI automation tools, interactive web apps, game prototypes, c
 - [Crypto Price Dashboard](https://github.com/coleyrockin/cryptoprice) — Real-time top 10 global asset tracker built with React, TypeScript & Vite
 - [Neon City Chess](https://github.com/coleyrockin/Chess-Game) — Cinematic two-player chess with Python ModernGL desktop and TypeScript Babylon.js browser builds
 - [WestWard RPG](https://github.com/coleyrockin/WestWardRPG) — A chaotic first-person western RPG in the browser with raycasting, sword duels, and a pig outlaw posse
-- [3D iOS Chess](https://github.com/coleyrockin/3DIOSCHESS) — Futuristic 3D chess game for iOS built in Swift
 
 ---
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/boydcroberts)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://boydcroberts.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://coleyrockin.github.io/react-portfolio/)
 
 ---
 
