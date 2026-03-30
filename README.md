@@ -17,7 +17,7 @@ I build things — AI automation tools, interactive web apps, game prototypes, c
 
 ### Featured Projects
 
-- [Crypto Price Dashboard](https://github.com/coleyrockin/cryptoprice) — Real-time top 10 global asset tracker built with React, TypeScript & Vite
+- [World Price Dashboard](https://github.com/coleyrockin/world-asset-prices) — Real-time top 10 global asset tracker built with React, TypeScript & Vite
 - [Neon City Chess](https://github.com/coleyrockin/Chess-Game) — Cinematic two-player chess with Python ModernGL desktop and TypeScript Babylon.js browser builds
 - [WestWard RPG](https://github.com/coleyrockin/WestWardRPG) — A chaotic first-person western RPG in the browser with raycasting, sword duels, and a pig outlaw posse
 
