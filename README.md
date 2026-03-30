@@ -1,8 +1,9 @@
-# Hey, I'm Boyd Roberts
+# Hey, I'm Boyd Roberts 👋
 
-**Developer | Builder | AI Enthusiast**
+Developer · Builder · AI Enthusiast
 
-I build things — AI automation tools, interactive web apps, game prototypes, crypto dashboards, and whatever else I can dream up. Based in Central Texas.
+I build things — AI automation tools, interactive web apps, game prototypes, crypto dashboards, and whatever else I can dream up.
+Based in Central Texas.
 
 ---
 
@@ -17,16 +18,18 @@ I build things — AI automation tools, interactive web apps, game prototypes, c
 
 ### Featured Projects
 
-- [World Price Dashboard](https://github.com/coleyrockin/world-asset-prices) — Real-time top 10 global asset tracker built with React, TypeScript & Vite
-- [Neon City Chess](https://github.com/coleyrockin/Chess-Game) — Cinematic two-player chess with Python ModernGL desktop and TypeScript Babylon.js browser builds
-- [WestWard RPG](https://github.com/coleyrockin/WestWardRPG) — A chaotic first-person western RPG in the browser with raycasting, sword duels, and a pig outlaw posse
+🌍 **[World Price Dashboard](https://github.com/coleyrockin/world-asset-prices)** — Real-time top 10 global asset tracker built with React, TypeScript & Vite
+
+♟️ **[Neon City Chess](https://github.com/coleyrockin/Chess-Game)** — Cinematic two-player chess with Python ModernGL desktop and TypeScript Babylon.js browser builds
+
+🤠 **[WestWard RPG](https://github.com/coleyrockin/WestWardRPG)** — A chaotic first-person western RPG in the browser with raycasting, sword duels, and a pig outlaw posse
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/boydcroberts)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://coleyrockin.github.io/react-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://github.com/coleyrockin)
 
 ---
 
