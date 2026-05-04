@@ -2,7 +2,7 @@
 
 Developer · Builder · AI Enthusiast
 
-I build things — AI automation tools, interactive web apps, game prototypes, crypto dashboards, and whatever else I can dream up.
+I build things — AI automation tools, interactive web apps, game prototypes, financial dashboards, and whatever else I can dream up.
 Based in Central Texas.
 
 ---
